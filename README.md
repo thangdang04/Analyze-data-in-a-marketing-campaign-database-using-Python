@@ -1,1 +1,1 @@
-# Analyze-data-in-a-marketing-campaign-database-using-Python
+# Data analysis project on a marketing campaign database
